@@ -1,0 +1,26 @@
+nav {
+    width: 100%;
+    /* Make the Navbar span the full width */
+    text-align: center;
+    /* Center the links within the Navbar */
+    margin-bottom: 20px;
+    /* Add space below the Navbar */
+}
+
+ul {
+    list-style-type: none;
+    /* Remove bullets */
+    padding: 0;
+    /* Remove default padding */
+    margin: 0;
+    /* Remove default margin */
+    display: flex;
+    /* Use Flexbox to align the items */
+    justify-content: center;
+    /* Center the items horizontally */
+}
+
+li {
+    margin: 0 10px;
+    /* Add some space between links */
+}
