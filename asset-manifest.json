@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.73e20fb6.chunk.css",
-    "main.js": "/static/js/main.4ae49e07.chunk.js",
-    "main.js.map": "/static/js/main.4ae49e07.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.b22a5fca.js",
-    "runtime~main.js.map": "/static/js/runtime~main.b22a5fca.js.map",
-    "static/css/2.2cf6aeb9.chunk.css": "/static/css/2.2cf6aeb9.chunk.css",
-    "static/js/2.5ebc9b73.chunk.js": "/static/js/2.5ebc9b73.chunk.js",
-    "static/js/2.5ebc9b73.chunk.js.map": "/static/js/2.5ebc9b73.chunk.js.map",
-    "static/js/3.2ee60a5f.chunk.js": "/static/js/3.2ee60a5f.chunk.js",
-    "static/js/3.2ee60a5f.chunk.js.map": "/static/js/3.2ee60a5f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.860106731c38e8576949a2d35d763bab.js": "/precache-manifest.860106731c38e8576949a2d35d763bab.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2cf6aeb9.chunk.css.map": "/static/css/2.2cf6aeb9.chunk.css.map",
-    "static/css/main.73e20fb6.chunk.css.map": "/static/css/main.73e20fb6.chunk.css.map",
-    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+    "main.css": "/web-prac/static/css/main.73e20fb6.chunk.css",
+    "main.js": "/web-prac/static/js/main.4ae49e07.chunk.js",
+    "main.js.map": "/web-prac/static/js/main.4ae49e07.chunk.js.map",
+    "runtime~main.js": "/web-prac/static/js/runtime~main.15181ec0.js",
+    "runtime~main.js.map": "/web-prac/static/js/runtime~main.15181ec0.js.map",
+    "static/css/2.0e52797e.chunk.css": "/web-prac/static/css/2.0e52797e.chunk.css",
+    "static/js/2.5ebc9b73.chunk.js": "/web-prac/static/js/2.5ebc9b73.chunk.js",
+    "static/js/2.5ebc9b73.chunk.js.map": "/web-prac/static/js/2.5ebc9b73.chunk.js.map",
+    "static/js/3.2ee60a5f.chunk.js": "/web-prac/static/js/3.2ee60a5f.chunk.js",
+    "static/js/3.2ee60a5f.chunk.js.map": "/web-prac/static/js/3.2ee60a5f.chunk.js.map",
+    "index.html": "/web-prac/index.html",
+    "precache-manifest.bf37fff0f7a01b149545f612015708cc.js": "/web-prac/precache-manifest.bf37fff0f7a01b149545f612015708cc.js",
+    "service-worker.js": "/web-prac/service-worker.js",
+    "static/css/2.0e52797e.chunk.css.map": "/web-prac/static/css/2.0e52797e.chunk.css.map",
+    "static/css/main.73e20fb6.chunk.css.map": "/web-prac/static/css/main.73e20fb6.chunk.css.map",
+    "static/media/slick-theme.css": "/web-prac/static/media/slick.f97e3bbf.svg"
   }
 }
