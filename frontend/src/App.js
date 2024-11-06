@@ -8,6 +8,8 @@ import Volunteer from './components/Volunteer';
 import Support from './components/Support';
 import News from './components/News';
 import Research from './components/Research';
+import ImageCarousel from './components/ImageCarousel';
+import './App.css';
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
       <div className="App">
         <Navbar />
         <h1 className="heading">Welcome to the OCEP Website</h1>
+        <ImageCarousel /> {/* Add the carousel here */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -28,8 +31,5 @@ function App() {
     </Router>
   );
 }
-
-
-
 
 export default App;
